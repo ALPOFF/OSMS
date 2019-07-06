@@ -1,0 +1,11 @@
+/ext/
+/vendor/
+/.tmp.drivedownload/
+/.idea/
+/.sencha/
+/app_old/
+/build/
+/packages/
+/resources/
+/sass/
+/overrides
