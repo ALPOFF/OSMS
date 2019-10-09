@@ -1,3 +1,9 @@
+OSMS Система мониторинга спутников в онлайн режиме.
+OSMS Online satellite monitoring system.
+
+<img src="https://sun9-23.userapi.com/c856032/v856032581/1193ab/njwJQqyFCys.jpg"></img>
+
+
 # ExtTest
 
 This folder is primarily a container for the top-level pieces of the application.
