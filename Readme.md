@@ -1,4 +1,4 @@
-OSMS Система мониторинга спутников в онлайн режиме.
+OSMS Система мониторинга спутников в онлайн режиме.</br>
 OSMS Online satellite monitoring system.
 
 <img src="https://sun9-23.userapi.com/c856032/v856032581/1193ab/njwJQqyFCys.jpg"></img>
